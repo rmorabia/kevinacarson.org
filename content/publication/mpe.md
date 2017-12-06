@@ -11,10 +11,8 @@ highlight = false
 #   3 = MLA
 list_format = 0
 
-publication_types = ["5"]
-
 # Abstract and optional shortened version.
-abstract = "This book is an attempt to revive individualist anarchist political economy, to incorporate the useful developments of the last hundred years, and to make it relevant to the problems of the twenty-first century. We hope this work will go at least part of the way to providing a new theoretical and practical foundation for free market socialist economics."
+abstract = "This book is an attempt to revive individualist anarchist political economy, to incorporate the useful developments of the last hundred years, and to make it relevant to the problems of the twenty-first century."
 abstract_short = "An attempt to revive individualist anarchist political economy."
 
 # Featured image thumbnail (optional)
