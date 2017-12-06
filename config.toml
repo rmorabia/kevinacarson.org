@@ -1,6 +1,6 @@
 baseurl = "http://kevinacarson.org"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "Kevin Carson ⸺ Freelance Writer and Anarchist Without Adjectives"
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+title = "Kevin Carson"
+copyright = "Creative Commons Attribution-NonCommercial 4.0 International License"
 theme = "academic"
 enableEmoji = false
 footnotereturnlinkcontents = "<sup>^</sup>"
