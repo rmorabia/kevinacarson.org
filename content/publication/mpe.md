@@ -26,7 +26,7 @@ abstract = "This book is an attempt to revive individualist anarchist political 
 abstract_short = "Theoretical and practical foundation for free market socialist economics"
 
 # Featured image thumbnail (optional)
-image_preview = "/static/img/mpe.jpg"
+image_preview = "/img/mpe.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -65,7 +65,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "/static/img/mpe.jpg"
+image = "mpe.jpg"
 caption = ""
 
 +++
