@@ -26,7 +26,7 @@ abstract = "This book applies the economic principles of individualist anarchism
 abstract_short = "Economic principles of individualist anarchism applied to the study of the large organization."
 
 # Featured image thumbnail (optional)
-image_preview = "/static/img/ot.jpg"
+image_preview = "ot.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -65,7 +65,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "/static/img/ot.jpg"
+image = "ot-wide.jpg"
 caption = ""
 
 +++
