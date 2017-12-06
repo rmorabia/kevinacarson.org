@@ -46,8 +46,8 @@ defaultContentLanguageInSubdir = false
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   # organizations = [ { name = "C4SS", url = "http://c4ss.org" } ]
 
-  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  gravatar = true  # Get your avatar from Gravatar.com? (true/false)
+  avatar = "/static/img/portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = ""
 #  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
 #  office_hours = "Monday 10:00 to 13:00 or email for appointment"
@@ -208,14 +208,14 @@ defaultContentLanguageInSubdir = false
     link = "mailto:free.market.anticapitalist@gmail.com"
 
   [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/KevinCarson1"
+    icon = "academia"
+    icon_pack = "ai"
+    link = "https://independent.academia.edu/KevinCarson"
 
- # [[params.social]]
- #   icon = "google-scholar"
- #   icon_pack = "ai"
- #   link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/freemarketanticapitalist/"
 
  # [[params.social]]
  #   icon = "github"
@@ -241,19 +241,19 @@ defaultContentLanguageInSubdir = false
   url = "#publications_selected"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
+
+#[[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 4
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
-
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
+  name = "Donate"
+  url = "#donate"
   weight = 5
 
 [[menu.main]]
