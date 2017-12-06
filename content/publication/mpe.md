@@ -19,7 +19,7 @@ publication_types = ["5"]
 
 # Publication name and optional abbreviated version.
 publication = "Studies in Mutualist Political Economy"
-publication_short = "MPE"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "This book is an attempt to revive individualist anarchist political economy, to incorporate the useful developments of the last hundred years, and to make it relevant to the problems of the twenty-first century. We hope this work will go at least part of the way to providing a new theoretical and practical foundation for free market socialist economics."
@@ -65,7 +65,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "/static/img/mpe.jpg"
 caption = ""
 
 +++
