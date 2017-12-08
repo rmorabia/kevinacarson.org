@@ -10,31 +10,15 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Networks",
+    "Micromanufacturing",
+    "Information Freedom",
+    "Horizantalist Political Movements",
+    "Prefigurative Politics"
   ]
-
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Kevin Carson is a senior fellow of the [Center for a Stateless Society](http://c4ss.org) and holds the Center's [Karl Hess Chair in Social Theory](http://c4ss.org/content/10370). He is a mutualist and individualist anarchist whose written work includes *Studies in Mutualist Political Economy*, *Organization Theory: A Libertarian Perspective*, *The Homebrew Industrial Revolution: A Low-Overhead Manifesto*, and others, all of which are freely available to read below. Carson has also written for such print publications as *The Freeman: Ideas on Liberty* and a variety of internet-based journals and blogs, including *Just Things*, *The Art of the Possible*, the P2P Foundation, and his own [Mutualist Blog](http://mutualist.blogspot.com/).
