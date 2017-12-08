@@ -1,6 +1,6 @@
  +++
 title = "Organization Theory: A Libertarian Perspective"
-date = 2007-03-05T23:42:22-08:00
+date = 2008-12-05T23:42:22-08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
