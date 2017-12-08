@@ -19,7 +19,7 @@ If you enjoy my work, please consider making a recurring donation via [Patreon](
 
 
  <a href="http://patreon.com/kevincarson">
-  <img src="static/img/patreon.png">
+  <img src="http://kevinacarson.org/static/img/patreon.png">
 </a> <a href="http://paypal.me/kevincarson826">
-  <img src="static/img/paypal.png">
+  <img src="http://kevinacarson.org/static/img/paypal.png">
 </a> 
