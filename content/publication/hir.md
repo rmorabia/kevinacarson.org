@@ -22,11 +22,7 @@ publication = "The Homebrew Industrial Revolution: A Low-Overhead Manifesto"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "The Homebrew Industrial Revolution is based on a series of research papers on industrial history I did at Center for a Stateless Society.
-
-In writing Organization Theory:  A Libertarian Perspective, I found myself most engaged in researching the material on micromanufacturing, household microenterprises, the alternative economy, and the singularity resulting from them.
-
-A major part of the material in The Homebrew Industrial Revolution is drawn from Organization Theory, but was imperfectly tied together and developed there.  I attempted to draw these themes together into my first C4SS monograph, and then found myself developing them in a series of followup papers. Those papers gradually took shape in my head as a book.
+abstract = "The Homebrew Industrial Revolution is based on a series of research papers on industrial history I did at [Center for a Stateless Society](http://c4ss.org). In writing [Organization Theory:  A Libertarian Perspective](http://kevinacarson.org/publication/ot/), I found myself most engaged in researching the material on micromanufacturing, household microenterprises, the alternative economy, and the singularity resulting from them. A major part of the material in The Homebrew Industrial Revolution is drawn from Organization Theory, but was imperfectly tied together and developed there.  I attempted to draw these themes together into my first C4SS monograph, and then found myself developing them in a series of followup papers. Those papers gradually took shape in my head as a book.
 
 One theme is the rise and fall of Sloanist mass-production in light of Mumford’s paleotechnic/neotechnic periodization and his theory of the cultural pseudomorph, and the rise of networked manufacturing as (in the words of Michael Piore and Charles Sabel) the rediscovery after more than a century of how to integrate electrical power into industry.
 
