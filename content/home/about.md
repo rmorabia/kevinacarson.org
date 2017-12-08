@@ -13,7 +13,7 @@ weight = 5
     "Networks",
     "Micromanufacturing",
     "Information Freedom",
-    "Horizantalist Political Movements",
+    "Horizontalist Political Movements",
     "Prefigurative Politics"
   ]
  
