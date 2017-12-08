@@ -1,6 +1,6 @@
 baseurl = "http://kevinacarson.org"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Kevin Carson"
-copyright = "Creative Commons Attribution-NonCommercial 4.0 International License"
+copyright = "Licensed Under the Creative Commons Attribution-NonCommercial 4.0 International License"
 theme = "academic"
 enableEmoji = false
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -47,7 +47,7 @@ defaultContentLanguageInSubdir = false
   # organizations = [ { name = "C4SS", url = "http://c4ss.org" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "/"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = ""
 #  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
 #  office_hours = "Monday 10:00 to 13:00 or email for appointment"
