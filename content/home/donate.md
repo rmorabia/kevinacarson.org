@@ -25,5 +25,5 @@ If you enjoy my work, please consider making a recurring donation via [Patreon](
 </a> 
 
 <a href="http://paypal.me/kevincarson826">
-  <img src="/static/img/paypal.png?raw=true">
+  <img src="static/img/paypal.png?raw=true">
 </a> 
