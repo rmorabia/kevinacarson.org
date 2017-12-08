@@ -18,5 +18,9 @@ weight = 60
 If you enjoy my work, please consider making a recurring donation via [Patreon](http://patreon.com/kevincarson) or a one-time donation via [Paypal](http://paypal.me/kevincarson826). 
 
 
-![http://patreon.com/kevincarson](static/img/patreon.jpg) ![](static/img/paypal.jpg)
-
+ <a href="http://patreon.com/kevincarson">
+  <img src="static/img/patreon.jpg">
+</a> 
+ <a href="http://paypal.me/kevincarson826">
+  <img src="static/img/paypal.jpg">
+</a> 
