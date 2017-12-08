@@ -19,7 +19,11 @@ If you enjoy my work, please consider making a recurring donation via [Patreon](
 
 
  <a href="http://patreon.com/kevincarson">
-  <img src="http://kevinacarson.org/static/img/patreon.png">
+  <img src="/static/img/patreon.png">
 </a> <a href="http://paypal.me/kevincarson826">
-  <img src="http://kevinacarson.org/static/img/paypal.png">
+  <img src="/static/img/paypal.png">
 </a> 
+
+<a href="http://www.travel-explorer.com/australia-best-beaches/" target="_blank">
+<img src="https://www.quackit.com/pix/byron_bay_225x169.jpg" style="border:1px solid black;max-width:100%;" alt="Photo of Byron Bay, one of Australia's best beaches!">
+</a>
