@@ -1,8 +1,8 @@
-baseurl = "http://kevinacarson.org"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "Kevin Carson"
-copyright = "Licensed Under the Creative Commons Attribution-NonCommercial 4.0 International License"
+baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+title = "Academic"
+copyright = "&copy; 2017 Your Name"
 theme = "academic"
-enableEmoji = false
+enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
@@ -39,21 +39,21 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Kevin Carson"
-  role = "Freelance Writer and Anarchist Without Adjectives"
+  name = "Lena Smith"
+  role = "Professor of Artificial Intelligence"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  # organizations = [ { name = "C4SS", url = "http://c4ss.org" } ]
+  organizations = [ { name = "Stanford University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "kevin.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = ""
-#  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-#  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-#  phone = "888 888 88 88"
-#  skype = "echo123"
-#  telegram = ""
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "test@example.org"
+  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  phone = "888 888 88 88"
+  skype = "echo123"
+  telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -89,15 +89,15 @@ defaultContentLanguageInSubdir = false
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "January 2nd, 2006"
+  date_format = "Jan 2, 2006"
   #   Examples: "3:04 pm" or "15:04"
   time_format = "3:04 PM"
 
   # Show estimated reading time for posts?
-  reading_time = false
+  reading_time = true
 
   # Display comment count? Requires commenting to be enabled.
-  comment_count = false
+  comment_count = true
 
   # Display section pager for posts?
   section_pager = false
@@ -205,22 +205,22 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:free.market.anticapitalist@gmail.com"
+    link = "mailto:test@example.org"
 
   [[params.social]]
-    icon = "academia"
-    icon_pack = "ai"
-    link = "https://independent.academia.edu/KevinCarson"
-
-  [[params.social]]
-    icon = "linkedin"
+    icon = "twitter"
     icon_pack = "fa"
-    link = "https://www.linkedin.com/in/freemarketanticapitalist/"
+    link = "//twitter.com/GeorgeCushen"
 
- # [[params.social]]
- #   icon = "github"
- #   icon_pack = "fa"
- #   link = "//github.com/gcushen"
+  [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/gcushen"
 
 
 # Navigation Links
@@ -241,19 +241,19 @@ defaultContentLanguageInSubdir = false
   url = "#publications_selected"
   weight = 2
 
-#[[menu.main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 3
-
-#[[menu.main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 4
+[[menu.main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 3
 
 [[menu.main]]
-  name = "Donate"
-  url = "#donate"
+  name = "Projects"
+  url = "#projects"
+  weight = 4
+
+[[menu.main]]
+  name = "Teaching"
+  url = "#teaching"
   weight = 5
 
 [[menu.main]]
@@ -273,4 +273,3 @@ defaultContentLanguageInSubdir = false
 # Configure the English version of the website.
 [Languages.en]
   languageCode = "en-us"
-
