@@ -1,4 +1,4 @@
-This is Kevin Carson's personal website. I made it using Hugo & used GitHub to deploy.
+This is Kevin Carson's professional website. I made it using Hugo. I deployed it using GitHub & Netlify.
 
 ## Theme License
 
