@@ -19,14 +19,14 @@ publication_types = ["5"]
 
 # Publication name and optional abbreviated version.
 publication = "Exodus: General Idea of the Revolution in the XXI Century"
-publication_short = "WIP"
+publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "This is a work in progress. Check out the source for more information."
-abstract_short = "WIP"
+abstract = "1) An account of the shift from Old Left strategies of postcapitalist transition based on organizational mass and hierarchy, and systemic rupture, to strategies based on horizontal organization and the interstitial construction of counter-institutions. 2) A survey of current projects engaged in building counter-institutions within the interstices of capitalism -- or, in the words of the Wobbly slogan, "building the structure of the new society within the shell of the old.""
+abstract_short = "All the methods available to us now for building a new world in the shell of the old."
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "https://images-na.ssl-images-amazon.com/images/I/41h0liRq5EL._SX348_BO1,204,203,200_.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.academia.edu/47513528/Exodus_General_Idea_of_the_Revolution_in_the_XXI_Century"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -54,7 +54,7 @@ url_source = "https://exodus875.wordpress.com/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Buy in Print", url = "https://www.amazon.com/Homebrew-Industrial-Revolution-Low-Overhead-Manifesto/dp/1439266999/"}]
+url_custom = [{name = "Buy in Print", url = "https://www.amazon.com/Exodus-General-Idea-Revolution-Century/dp/B0915BFQVM/ref=sr_1_1"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
