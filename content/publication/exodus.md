@@ -22,7 +22,7 @@ publication = "Exodus: General Idea of the Revolution in the XXI Century"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "1) An account of the shift from Old Left strategies of postcapitalist transition based on organizational mass and hierarchy, and systemic rupture, to strategies based on horizontal organization and the interstitial construction of counter-institutions. 2) A survey of current projects engaged in building counter-institutions within the interstices of capitalism -- or, in the words of the Wobbly slogan, "building the structure of the new society within the shell of the old.""
+abstract = '1) An account of the shift from Old Left strategies of postcapitalist transition based on organizational mass and hierarchy, and systemic rupture, to strategies based on horizontal organization and the interstitial construction of counter-institutions. 2) A survey of current projects engaged in building counter-institutions within the interstices of capitalism -- or, in the words of the Wobbly slogan, "building the structure of the new society within the shell of the old."'
 abstract_short = "All the methods available to us now for building a new world in the shell of the old."
 
 # Featured image thumbnail (optional)
