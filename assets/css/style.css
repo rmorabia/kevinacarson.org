@@ -175,9 +175,17 @@ footer { width: 232px; float: left; position: fixed; bottom: 30px; -webkit-font-
 
 .donate-buttons {
   display: flex;
+  align-items: center;
 }
 
 .paypal-button, .paypal-button:hover {
   color: rgb(5, 45, 73);
   font-family: America, "GT America", Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  margin-bottom: -6px;
+  letter-spacing: 0.5px;
+}
+
+.fa-paypal {
+  margin-right: 4px;
 }
