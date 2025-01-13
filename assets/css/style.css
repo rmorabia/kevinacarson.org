@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap");
 body { background-color: #fff; padding: 0px; font: 16.0px/1.5 Crimson Pro, serif; color: #595959; font-weight: 400; margin: 0; }
 
-.pub-row { display: flex; align-items: center; }
+.pub-row { display: flex; }
 
 .social-icons a { display: inline-block; height: 2.4rem; width: 2.4rem; background-color: transparent; color: #043361 !important; border-radius: 100%; text-align: center; font-size: 1.15rem; line-height: 2.5rem; margin-right: 1rem; }
 
@@ -145,7 +145,7 @@ hr { border: 0; background: #e5e5e5; height: 1px; margin: 0 0 20px; }
 
 footer { width: 232px; float: left; position: fixed; bottom: 30px; -webkit-font-smoothing: subpixel-antialiased; text-align: center; }
 
-@media print, screen and (max-width: 960px) { .pub-row { display: flex; align-items: center; }
+@media print, screen and (max-width: 960px) { .pub-row { display: flex; }
   div.wrapper { width: auto; margin: 0; }
   header, section, footer { float: none; position: static; width: auto; }
   header { padding-right: 320px; }
@@ -156,10 +156,10 @@ footer { width: 232px; float: left; position: fixed; bottom: 30px; -webkit-font-
   #head1o2 { visibility: hidden; }
   #head2o2 { visibility: hidden; } }
 @media print, screen and (max-width: 960px) { body { word-wrap: break-word; padding: 15px; }
-  .pub-row { display: flex; align-items: center; }
+  .pub-row { display: flex; }
   header { padding: 0; }
   pre, code { word-wrap: normal; } }
-@media print, screen and (max-width: 480px) { .pub-row { display: block; align-items: center; }
+@media print, screen and (max-width: 480px) { .pub-row { display: block; }
   body { padding: 15px; }
   header ul { width: 99%; }
   header li, header ul li + li + li { width: 33%; }
